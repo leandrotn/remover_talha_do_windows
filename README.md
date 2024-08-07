@@ -1,0 +1,1 @@
+# remover_talha_do_windows
